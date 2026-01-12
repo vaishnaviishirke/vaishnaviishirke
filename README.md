@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi👋, I'm Vaishnavi 
 
-<!--
-**vaishnaviishirke/vaishnaviishirke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a technical student with interest in both industrial automation and software systems.
 
-Here are some ideas to get you started:
+----------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 WHAT I'M CURRENTLY WORKING ON:-
+
+Strengthening PLC fundamentals and industrial automation concepts.
+Building clarity in core engineering basics.
+Gradually improving my understanding of software tools used in technical systems.
+
+----------------------------------------------------------------------------------------
+
+🛠️ TOOLS & TECHNOLOGIES
+
+Automation: PLC basics (industrial automation)
+Languages: SQL (basic), C++ (basic)
+Design: AutoCAD
+---------------------------------------------------------------------------------------
+
+📫 HOW TO REACH ME
+
+GitHub: https://github.com/vaishnaviishirke
+Linkedln : https://www.linkedin.com/in/vaishnavishirke4084
